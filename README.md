@@ -8,7 +8,10 @@ The traditional convolutional neural network (CNN)-based methods usually use the
         run train_XXX.py will give the recognition accuracy on the test set in every epoch
         run test_xxx.py will give the F1_score
 ## dataset
-        please cite https://github.com/Alien9427/DSN
+        please follow and cite https://github.com/Alien9427/DSN
+
+## model
+        model is an empty folder that can be used to save the model
 # Citation
 ## If you find this repository/work helpful in your research, welcome to cite the paper.
         @ARTICLE{10290990,
